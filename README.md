@@ -32,7 +32,7 @@ En este enfoque, se crea un paquete con diferentes módulos, cada uno destinado 
 
 ```
 shape/
-├── shape_modular/
+├── shapes_modular/
 │   ├── __pycache__/
 │   ├── __init__.py
 │   ├── equilateral.py
